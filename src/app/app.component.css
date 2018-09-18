@@ -1,0 +1,118 @@
+img {
+    display: block;
+    margin-left: 15%;
+    margin-right: 85%;
+}
+.header{
+    width: 100%;
+    height: 100%;
+}
+img {
+    border-radius: 50%;
+    display: block;
+}
+h2 {
+    text-align: center
+}
+h1 {
+    text-align: center
+}
+.infor1 {
+    position: relative;
+    left: 70px
+}
+.infor2 {
+    position: relative;
+    left: 98px
+}
+.infor3 {
+    position: relative;
+    left: 49px
+}
+.infor4 {
+    position: relative;
+    left: 52px
+}
+.lucky2{
+    position: relative;
+    left: 65px
+}
+.lucky3{
+    position: relative;
+    left: 45px
+}
+
+body {
+    background-image: url("web-design-background.png");
+    background-size: cover;
+    width: 1000px
+}
+.lucky{
+    position: relative;
+    left: 110px
+}
+
+.block{
+    float: left;
+    width: 55%;
+    border: 1px solid #ccc;
+    padding:10px;
+    box-sizing: border-box;
+    margin-left: auto;
+    height: 570px;
+    text-align: left;
+    font-style: italic;
+    background-color: bisque
+}
+#container{
+    float: right;
+    width: 45%;
+    border: 1px solid #ccc;
+    padding:10px;
+    box-sizing: border-box;
+    height: 570px;
+    text-align: left;
+    font-style: italic;
+
+}
+/* Style the footer */
+.footer {
+    background-color: #808080;
+    padding: 50px;
+    text-align: center;
+    
+}
+html, body{
+        min-height: 100%;
+}
+.PERSONAL{
+    text-align: center;
+}
+.Skills{
+    text-align: center;
+}
+.Work{
+    text-align: center;
+}
+.Qulification{
+    text-align: center;
+}
+.Refe{
+    text-align: center;
+}
+
+.footer p{
+    padding-top: 20%;
+    color : white;
+}
+.underline {
+    border-bottom: 2px solid currentColor;
+    display: inline-block;
+    line-height: 0.85;
+    text-shadow: 2px 2px white, 2px -2px white, -2px 2px white, -2px -2px white;
+  }
+.linkedin{
+    border-radius: 50%;
+    display: block;
+    margin: left;
+}
